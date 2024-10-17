@@ -1,1 +1,51 @@
-TODO
+
+Privacy Policy for Flat To Flat
+
+This privacy policy applies to the Flat To Flat app (hereby referred to as "Application") for mobile devices that was created by Flat To Flat (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+
+Information Collection and Use
+The Application collects information when you download and use it. This information may include information such as:
+- Your device's Internet Protocol address (e.g. IP address)
+- The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
+- The operating system you use on your mobile device
+- The time spent on the Application
+
+The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and use it in the following ways:
+1. Geolocation Services: Location data is used to provide features such as personalized content, relevant recommendations, and location-based services.
+2. Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider analyze user behavior, identify trends, and improve the overall performance of the Application.
+3. Third-Party Services: Anonymized location data may be transmitted to external services to enhance the Application and optimize offerings.
+
+The Service Provider may use the information you provided to contact you with important information, notices, and promotions.
+
+To improve user experience, the Service Provider may require personally identifiable information, including but not limited to:
+- Name, email, password, gender, profile image
+
+Third Party Access
+Aggregated, anonymized data is periodically transmitted to external services for Application improvement. Third-party services used by the Application include:
+- Google Play Services
+
+User information may be disclosed:
+- As required by law
+- To protect the rights and safety of users or others
+- With trusted service providers for the benefit of the Application
+
+Opt-Out Rights
+You can stop all collection of information by uninstalling the Application.
+
+Data Retention Policy
+The Service Provider will retain data for as long as you use the Application and for a reasonable time thereafter. To request data deletion, please contact us at flattoflatofficial@gmail.com.
+
+Children
+The Service Provider does not knowingly collect data from children under 13. If discovered, this data will be deleted immediately.
+
+Security
+The Service Provider safeguards your information with physical, electronic, and procedural safeguards.
+
+Changes to this Policy
+This Privacy Policy may be updated periodically. Continued use of the Application implies acceptance of these changes.
+
+Effective Date: 2024-03-28
+
+Contact Us
+For privacy concerns, contact flattoflatofficial@gmail.com.
+
